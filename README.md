@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://checkout-page-master-19cec.web.app">
+    <a href="https://solodeveloperalpha.github.io/Checkout-Page-mst/">
       Demo
     </a>
     <span> | </span>
